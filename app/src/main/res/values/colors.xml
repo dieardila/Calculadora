@@ -1,0 +1,7 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondo">#FFF3F6FA</color>
+    <color name="texto">#FF182539</color>
+    <color name="primario">#FF174EA6</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="descripcion">Operaciones con dos números</string>
+    <string name="instrucciones">Usa coma o punto decimal y signo negativo si lo necesitas. No uses separadores de miles. La división muestra hasta 16 cifras significativas.</string>
+    <string name="numero_uno">Primer número</string>
+    <string name="numero_dos">Segundo número</string>
+    <string name="ejemplo">Ejemplo: -12,5</string>
+    <string name="sumar">Sumar (+)</string>
+    <string name="restar">Restar (−)</string>
+    <string name="multiplicar">Multiplicar (×)</string>
+    <string name="dividir">Dividir (÷)</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="resultado_inicial">Resultado: —</string>
+    <string name="resultado_formato">Resultado: %1$s</string>
+    <string name="error_vacio">Ingresa un número.</string>
+    <string name="error_numero">Número inválido: usa un solo separador decimal, sin miles.</string>
+    <string name="error_revision">Revisa los campos indicados.</string>
+    <string name="error_cero">No se puede dividir entre cero.</string>
+</resources>
